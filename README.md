@@ -10,4 +10,6 @@ I'm a student at HEIG-VD, based in Yverdon-les-Bains, Switzerland. I'm 27 years 
 - 🎨 Graphic Design: Visual identity, branding, and infographics
 - 📊 Digital Marketing: Google Ads campaigns and LinkedIn networking
 
+## 📫 Connect with Me
 
+- 💼 <a href="https://www.linkedin.com/in/thierry-koulbanis">LinkedIn</a>
