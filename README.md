@@ -12,4 +12,4 @@ I'm a student at HEIG-VD, based in Yverdon-les-Bains, Switzerland. I'm 27 years 
 
 ## 📫 Connect with Me
 
-- 💼 <a href="https://www.linkedin.com/in/thierry-koulbanis">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/thierry-koulbanis" target="_blank">LinkedIn</a>
