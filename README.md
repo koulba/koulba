@@ -5,10 +5,10 @@ I'm a student at HEIG-VD, based in Yverdon-les-Bains, Switzerland. I'm 27 years 
 
 ## 💼 What I Do
 
-- 🌐 Web Development: WordPress, SEO, and landing pages
-- 📱 Mobile Apps: Java-based applications
-- 🎨 Graphic Design: Visual identity, branding, and infographics
-- 📊 Digital Marketing: Google Ads campaigns and LinkedIn networking
+- 🌐 Web Development: HTML, CSS, JS, Wordpress
+- 📱 Apps: Java-based applications
+- 🎨 Graphic Design: Visual identity, branding, infographics, wireframes
+- 📊 Digital Marketing: Google Ads campaigns, SEO, Landing pages
 
 ## 📫 Connect with Me
 
